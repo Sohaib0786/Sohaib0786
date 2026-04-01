@@ -1,32 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Mohd%20Sohaib&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohd%20Sohaib&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;AI+%26+SaaS+Builder+%F0%9F%A4%96;300%2B+LeetCode+Problems+Solved+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;AI+%26+SaaS+Builder;300%2B+DSA+Problems+Solved;Building+Scalable+Applications)](https://git.io/typing-svg)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibqu7714@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mohd-sohaib-230374273/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Sohaib0786">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/shoaibqu7714">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:shoaibqu7714@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://quick-ai-kappa-two.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sohaib0786&style=for-the-badge&color=blueviolet" />
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=mohd-sohaib&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -38,96 +30,193 @@
 const sohaib = {
   name: "Mohd Sohaib",
   location: "Delhi, India 🇮🇳",
-  education: "B.Tech CSE @ Jamia Hamdard (2021–2025) | CGPA: 8.0",
-  role: "Full Stack Developer",
-  expertise: ["MERN Stack", "REST APIs", "JWT Auth", "AI Integrations"],
-  currentlyLearning: ["System Design", "DevOps", "Scalable Systems"],
-  interests: ["AI SaaS Products", "Automation", "Developer Tools"],
-  funFact: "console.log() is still my best debugger 😄"
+  education: "B.Tech CSE @ Jamia Hamdard (2021-2025) | CGPA: 8.0",
+  role: "Full Stack Web Developer",
+  currentlyLearning: ["System Design", "DevOps", "Advanced AI APIs"],
+  passions: ["Building SaaS Products", "AI-Powered Apps", "Open Source"],
+  funFact: "I debug with console.log and I'm proud of it 😄",
+  contact: "shoaibqu7714@gmail.com"
 };
+```
 
+---
 
-🏆 Achievements
-🧩 Solved 300+ DSA problems on LeetCode
-🌍 Global Rank 298 — LeetCode Weekly Contest 166
-🔥 Top 8% (Rank 2444) — Weekly Contest 468
-🏅 Rank 26 — HackerRank DSA Contest
-
-
-🛠️ Tech Stack
-
-Languages: Java • JavaScript • HTML • CSS
-Frameworks: React • Next.js • Node.js • Express
-Databases: MongoDB • MySQL
-Tools: Git • Docker • Postman • Firebase • JWT
-AI & APIs: OpenAI • Google Gemini • Stripe • Razorpay
-
-
-🚀 Featured Projects
-🤖 Quick AI — Full Stack AI SaaS Platform
-🔗 Live: https://quick-ai-kappa-two.vercel.app/
-🔗 Repo: https://github.com/Sohaib0786/quick-ai
-AI tools: Blog Generator, Resume Analyzer, Image Generator
-Clerk Authentication + Stripe Subscriptions
-Built with scalable MERN architecture
-
-
-
-🌍 Namaste Travel — Travel Planner
-🔗 Live: https://sohaib-namaste-travel-tvaw.onrender.com/
-🔗 Repo: https://github.com/Sohaib0786/Sohaib-Namaste-Travel
-Smart recommendations + user reviews
-Increased retention by 50%
-REST API-based full-stack app
-
-
-🎓 Guide For 10th — AI Career Platform
-🔗 Live: https://guide-for-10th.vercel.app/
-🔗 Repo: https://github.com/Sohaib0786/Guide_For_10th
-AI-powered career recommendations
-Integrated Google Gemini API
-
-🎬 CineScope — Movie Intelligence Platform
-
-🔗 Live: https://decode-movie-app.vercel.app/
-🔗 Repo: https://github.com/Sohaib0786/Decode-movieApp
-Sentiment analysis & rating insights
-Data visualization dashboards
-
-💼 Experience
-
-Web Developer Intern — Bold Eagle Trade (Oct 2025 – Feb 2026)
-
-Built eCommerce platform for 1000+ users
-Razorpay integration → +20% conversions
-Optimized APIs → 25% faster response time
-Implemented JWT + RBAC security
-
-Full Stack Intern — Zidio Development (May 2025 – Aug 2025)
-Integrated Google Gemini & AI APIs
-Implemented Firebase authentication
-
-Full Stack Intern — Innobyte Services (Aug 2024 – Sep 2024)
-Improved UI engagement by 15%
-Built backend APIs using Node.js
-
-
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sohaib0786&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib0786&layout=compact&theme=tokyonight&hide_border=true" height="170"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sohaib0786&theme=tokyonight&hide_border=true" width="500"/> </div>
-
-
-📜 Certifications
-NPTEL — OOP (IIT Roorkee) — 72%
-NPTEL — Java Programming (IIT Kharagpur) — 82%
-
-🤝 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/mohd-sohaib-230374273/
-💻 GitHub: https://github.com/Sohaib0786
-🧩 LeetCode: https://leetcode.com/u/shoaibqu7714
-📧 Email: shoaibqu7714@gmail.com
+## 🏆 Achievements
 
 <div align="center">
 
-✨ "Code is like humor. When you have to explain it, it’s bad."
+| 🥇 Achievement | 🔢 Details |
+|---|---|
+| 🧩 LeetCode Problems Solved | **300+** Problems |
+| 🌍 LeetCode Weekly Contest 166 | **Global Rank #298** out of 28,969 |
+| 🔥 LeetCode Weekly Contest 468 | **Top 8%** — Rank 2444 out of 36,315 |
+| 🏅 HackerRank DSA Contest | **Ranked 26th** |
 
-</div> ```
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🤖 AI & APIs
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🤖 Quick AI — Full Stack AI SaaS Platform
+[![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com)
+[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://vercel.app)
+
+> Production-ready AI SaaS built on the **MERN Stack** with powerful AI tools
+
+✅ Blog & Article Generator &nbsp;|&nbsp; 🎨 Image Generator &nbsp;|&nbsp; 🗂️ Background Remover &nbsp;|&nbsp; 📄 Resume Analyzer  
+🔐 Clerk Authentication &nbsp;|&nbsp; 💳 Stripe Billing & Subscriptions
+
+---
+
+### 🌍 Namaste Travel — Travel Planner Web App
+[![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com)
+[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://vercel.app)
+
+> Smart travel planning with recommendations and user reviews — boosted user retention by **50%**
+
+🛠️ HTML · CSS · JS · Node.js · Express · MongoDB · Bootstrap
+
+---
+
+### 🎓 Guide For 10th — AI Career Guidance Platform
+[![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com)
+[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://vercel.app)
+
+> AI-powered career guidance for 10th-grade students using **Google Gemini API**  
+> Personalized recommendations tailored to each student's interests
+
+🛠️ MERN Stack · Google Gemini API
+
+---
+
+### 🎬 CineScope — AI Movie Intelligence Platform
+[![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com)
+[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://vercel.app)
+
+> AI-powered movie analytics with **sentiment analysis**, rating comparisons & audience insights
+
+🛠️ MERN Stack · External APIs · Data Visualization
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+```
+🦅  Bold Eagle Trade          Web Developer Intern          Oct 2025 – Feb 2026
+    ├── eCommerce platform for 1,000+ monthly users
+    ├── Integrated Razorpay → +20% checkout success rate
+    ├── React.js UI → -30% page load time
+    ├── 25+ RESTful APIs with JWT + RBAC → -40% unauthorized access
+    └── System stable for 100+ concurrent users
+
+🧑‍💻  Zidio Development Pvt Ltd  Full Stack Intern           May 2025 – Aug 2025
+    ├── Integrated Google Gemini & Generative AI APIs
+    ├── Firebase Google authentication implementation
+    └── Secure API key management
+
+💡  Innobyte Services          Full Stack Developer Intern   Aug 2024 – Sep 2024
+    ├── React + Tailwind CSS → +15% user engagement
+    ├── Node.js + Express backend with JWT auth
+    └── API testing and debugging with Postman
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohd-sohaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-sohaib&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohd-sohaib&theme=tokyonight&hide_border=true" width="500"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-sohaib&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+![NPTEL](https://img.shields.io/badge/NPTEL-OOP%20%7C%20IIT%20Roorkee-orange?style=for-the-badge&logo=google-scholar&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Java%20%7C%20IIT%20Kharagpur-blue?style=for-the-badge&logo=java&logoColor=white)
+
+OOP with Java — **72%** &nbsp;|&nbsp; Java Programming — **82%**
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Amazing!
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Send%20Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibqu7714@gmail.com)
+
+<br/>
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
